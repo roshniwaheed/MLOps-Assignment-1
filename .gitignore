@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 .dvc/cache/
 *.h5
+/models
