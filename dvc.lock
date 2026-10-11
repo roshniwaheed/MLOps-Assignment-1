@@ -14,7 +14,7 @@ stages:
       size: 54950512
       nfiles: 4
   preprocess:
-    cmd: python src/preprocess.py --version-b
+    cmd: python src/preprocess.py
     deps:
     - path: data/raw
       hash: md5
