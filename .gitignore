@@ -4,3 +4,5 @@ __pycache__/
 .dvc/cache/
 *.h5
 /models
+/metrics.json
+/confusion_matrix.png
