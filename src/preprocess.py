@@ -42,7 +42,7 @@ def main():
     np.save("data/processed/x_test.npy", x_test)
     np.save("data/processed/y_test.npy", y_test)
 
-    print("Preprocessing completed successfully.")
+    print("Preprocessing completed successfully - teammate version.")
     print("Training set:", x_train.shape)
     print("Validation set:", x_val.shape)
     print("Test set:", x_test.shape)
